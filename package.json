@@ -26,7 +26,6 @@
     "chai-files": "^1.0.0",
     "debug": "^3.0.0",
     "ember-cli-internal-test-helpers": "^0.9.1",
-    "exists-sync": "0.0.3",
     "findup": "^0.1.5",
     "fs-extra": "^4.0.0",
     "lodash.merge": "^4.4.0",
